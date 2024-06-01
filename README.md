@@ -3,4 +3,4 @@ APTLens leverages AI to track APT groups, campaigns, intrusion sets, malware and
 
 # Proof of Concept
 
-<img src="POC.gif" alt="Proof of Concept" style="max-width: 100%; height: auto;">
+<img src="POC.mov" alt="Proof of Concept" width="1200" height="auto">
